@@ -11,6 +11,7 @@ provider to Vagrant, allowing Vagrant to control and provision machines on HP Cl
 * SSH into the instances.
 * Provision the instances with any built-in Vagrant provisioner.
 * Minimal synced folder support via `rsync`.
+* test
 
 ## Usage
 
